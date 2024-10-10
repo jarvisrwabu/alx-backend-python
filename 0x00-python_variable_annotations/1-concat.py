@@ -4,5 +4,4 @@
 
 def concat(a: str, b: str) -> str:
     """Concatenate 2 strings."""
-    return "{}{}".format(a,b)
-
+    return "{}{}".format(a, b)
