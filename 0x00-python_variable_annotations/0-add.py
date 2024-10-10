@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Function that adds 2 floating point numbers."""
 
 
