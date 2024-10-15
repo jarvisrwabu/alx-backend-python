@@ -16,4 +16,4 @@ async def measure_time(n: int, max_delay: int) -> float:
 
     total_time = end - start  # Time taken to execute the program
 
-    return total_time / n
+    return (total_time / n)
