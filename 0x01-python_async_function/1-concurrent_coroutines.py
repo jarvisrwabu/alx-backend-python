@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Function that executes multiple coroutines."""
-basic_async = __import__('0-basic_async_syntax')
 from typing import List
+basic_async = __import__('0-basic_async_syntax')
 
 
 async def wait_n(n: int, max_delay: int) -> List[float]:
